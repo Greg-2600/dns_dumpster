@@ -3,12 +3,12 @@ Reverse engineering dnsdumpster.com
 
 # Usage:
 
-bash dns_dumpster.com
+`bash dns_dumpster.com $domain`
 
 # Example Output:
 
     #domain:
-    yahoo.com $domain
+    yahoo.com
 
 
     #A Records:
