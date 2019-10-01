@@ -114,7 +114,10 @@ main() {
 }
 
 
+[ $# -eq 0 ] && { echo "Usage: $0 domain_name.tld"; exit 1; }
+
 domain=$1
+
 # global dataset
 dig_data=$(dig $domain any)
 
