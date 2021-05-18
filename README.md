@@ -3,7 +3,7 @@ Reverse engineering dnsdumpster.com
 
 # Usage:
 
-`bash dns_dumpster.com $domain`
+`bash dns_dumpster.sh $domain`
 
 # Example Output:
 
