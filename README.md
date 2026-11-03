@@ -77,3 +77,7 @@ Reverse engineering dnsdumpster.com
     26101|72.30.0.0/19|YAHOO-3-OathHoldingsInc.,US
     36647|67.195.0.0/17|YAHOO-GQ1-OathHoldingsInc.,US
 
+
+## Authorized use
+
+This tool is for education and authorized security testing only. Use it only on systems you own or have written permission to test.
